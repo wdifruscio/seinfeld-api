@@ -2,7 +2,6 @@
 const quotes = require("./seinfeld");
 const express = require('express');
 const app = express();
-let port = process.env.port || 8080;
 
 
 app.use('/', express.static(__dirname + '/mainpage'));
@@ -45,7 +44,7 @@ app.get('/random',(req, res)=>{
     }
 });
 
-app.listen(8080, function () {
+app.listen(function () {
   console.log('App listening on port 8080!')
 })
 
