@@ -434,73 +434,240 @@ exports.quotes = [
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
+	"quote": "Well, you're just as pretty as any of them. You just need a nose job.",
 	"author": "Kramer",
 	"season": "3",
-	"episode": "8",	
+	"episode": "9",	
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
-	"author": "Kramer",
+	"quote": "I have never been so repulsed by someone mentally and so attracted to them physically at the same time. It's like my brain is facing my penis in a chess game. And I'm letting him win.",
+	"author": "Jerry",
 	"season": "3",
-	"episode": "8",	
+	"episode": "9",	
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
-	"author": "Kramer",
+	"quote": "Maybe the dingo ate your baby.",
+	"author": "Elaine",
 	"season": "3",
-	"episode": "8",	
+	"episode": "10",	
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
-	"author": "Kramer",
+	"quote": "I don't like when a woman says, 'Make love to me', it's intimidating. The last time a woman said that to me, I wound up apologizing to her.",
+	"author": "George",
 	"season": "3",
-	"episode": "8",	
+	"episode": "10",	
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
-	"author": "Kramer",
+	"quote": "What could possess anyone to throw a party?  I mean, to have a bunch of strangers treat your house like a hotel room.",
+	"author": "Jerry",
 	"season": "3",
-	"episode": "8",	
+	"episode": "10",	
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
+	"quote": "These pretzels are making me thirsty.",
 	"author": "Kramer",
 	"season": "3",
-	"episode": "8",	
+	"episode": "11",	
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
-	"author": "Kramer",
+	"quote": "Moving cars from one side of the street to the other don't take no more sense than puttin' on a pair of pants. My question to you is: who's puttin' your pants on?",
+	"author": "Sid",
 	"season": "3",
-	"episode": "8",	
+	"episode": "11",	
 	"image": ""
 },
 {
-	"quote": "How often do you cut your toenails?",
-	"author": "Kramer",
+	"quote": "Can you die from an odor?",
+	"author": "Elaine",
 	"season": "3",
-	"episode": "8",	
+	"episode": "11",	
 	"image": ""
 },
-
+{
+	"quote": "I see a very cheap man holding a sweater trying to get away with something.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "I don't know if it was the alcohol or the ammonia, but the next thing I knew she was mopping the floor with me.",
+	"author": "George",
+	"season": "3",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "You had sex on your desk with the cleaning woman.",
+	"author": "Elaine",
+	"season": "3",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "Elaine you don't understand. I had 103 temperature when I bought that sweater. I was so dizzy I was seeing red dots everywhere. I thought everything in the store had a red dot on it. I couldn't distinguish one red dot from another. I couldn't afford anything. I have nothing. I haven't worked for a really long time. I mean look, I have no clothes, look at what I'm wearing. It's just a little red dot.",
+	"author": "George",
+	"season": "3",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "I always get the feeling that when lesbians look at me, they're thinking, 'That's why I'm not a heterosexual.'",
+	"author": "George",
+	"season": "3",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "Big brokerage houses killed my father.",
+	"author": "George",
+	"season": "3",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "I'm not a lesbian. I hate men, but I'm not a lesbian!",
+	"author": "Elaine",
+	"season": "3",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "His mother was a mudder... His father was a mudder.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "We all want the hand. Hand is tough to get.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "Anyone who would laugh at a recital is probably some sort of lunatic anyway. I mean, only a sick, twisted mind could be that rude and ignorant.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "I don't have a good apartment for an intervention. The furniture, it's very non-confrontational.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "A plane crash? A heart attack? Lupus? Is it lupus?",
+	"author": "George",
+	"season": "3",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "You can say what you want about me, but I'll be damned if I'm going to stand here while you insult my toothbrush.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "The carpet sweeper is the biggest scam perpetrated on the American public since one-hour martinizing.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "The guy is unconscious in a coma and you don't have the guts to kiss his girlfriend?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "My boys can swim!",
+	"author": "George",
+	"season": "3",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "You wouldn't know it to look at him, but George can bait a hook.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "What am I, a hooker?",
+	"author": "Elaine",
+	"season": "3",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "It's hard enough to meet a woman you dislike, much less like.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "It's like a sauna in here!",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "I would really like to have sex with a tall woman.",
+	"author": "George",
+	"season": "3",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "Vandelay! Say Vandelay!",
+	"author": "George",
+	"season": "3",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "So Biff wants to be a buff? Well, sleeping less than eighteen hours a day would be a start.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "Hello, Ma? It's me. Guess where I am? In the back of a limo. No, nobody died. It's a long story, I can't tell you now. Because I can't. I said I can't. If I could, I would. Would you stop it. All right, look, I'm getting off. No, I'm not telling you. How's this - I'm never telling you. I don't care. No. Fine. Never!",
+	"author": "George",
+	"season": "3",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "I know Jerry. He's not a Nazi. No. He's just neat.",
+	"author": "Elaine",
+	"season": "3",
+	"episode": "18",	
+	"image": ""
+},
 {
 	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
 	"author": "George",
 	"image": ""
-},
-{
-
-	"quote": "I'm not a lesbian. I hate men, but I'm not a lesbian",
-	"author": "Elaine",
-	"image": ""
-
 },
 {
 
@@ -618,13 +785,6 @@ exports.quotes = [
 {
 
 	"quote": "See, this is what the holidays are all about. Three buddies sitting around chewing gum.",
-	"author": "Kramer",
-	"image": ""
-
-},
-{
-
-	"quote": "The carpet sweeper is the biggest scam perpetrated on the American public since One Hour Martinizing.",
 	"author": "Kramer",
 	"image": ""
 
