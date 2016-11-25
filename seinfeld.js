@@ -386,11 +386,110 @@ exports.quotes = [
 },
 {
 	"quote": "I can't carry a pen. I'm afraid I'll puncture my scrotum.",
-	"author": "Jerry",
+	"author": "George",
 	"season": "3",
 	"episode": "6",	
 	"image": ""
 },
+{
+	"quote": "She thinks I'm a nice guy. Women always think I'm nice. But women don't want nice.",
+	"author": "George",
+	"season": "3",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "Hey, do me a favor. If some guy comes around looking for me, tell him you don't know where I am.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "You should've seen her face. It was the exact same look my father gave me when I told him I wanted to be a ventriloquist.",
+	"author": "George",
+	"season": "3",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "You know what that makes you? A baldist.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "You stink!",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "How often do you cut your toenails?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "8",	
+	"image": ""
+},
+
 {
 	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
 	"author": "George",
