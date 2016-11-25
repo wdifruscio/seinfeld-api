@@ -665,6 +665,98 @@ exports.quotes = [
 	"image": ""
 },
 {
+	"quote": "If you want to make a person feel better after they sneeze, you shouldn't say 'God bless you.' You should say 'You're so good looking!'",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "You know they're mentally disturbed. They should be sent to Australia.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "Hey buddy, where's my thank you wave?!",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "I like the button fly. That is one place on my wardrobe I do not need sharp interlocking metal teeth. It's a mink trap down there.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "The appeal of the posse? Posse has tremendous appeal. Get away from the job, you camp out, you're with friends. I mean, come on, it's a week-long game of hide-and-go-seek on horseback.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "I see a parasite. A sexually depraved miscreant who is seeking only to gratify his basest and most immediate urges.",
+	"author": "Old Man Looking At Painting Of Kramer",
+	"season": "3",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "All bald people look good in hats.",
+	"author": "George",
+	"season": "3",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "You don't understand. A garage... I can't even pull in there. It's like going to a prostitute. Why should I pay, when if I apply myself, maybe I could get it for free?",
+	"author": "George",
+	"season": "3",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "You want to know why you can't go in front first? I'll tell you why. Because it signals a breakdown in the social order. Chaos. It reduces us to jungle law.",
+	"author": "Newman",
+	"season": "3",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "I'm like ice, buddy. When I don't like you, you've got problems.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Do you ever yearn?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "Having the keys to Jerry's apartment - that kept me in a fantasy world. Every time I went over to his house it was like a vacation: better food, better view, better TV, cleaner, oh, *much* cleaner. That became my reality. I ignored the squalor in my own life because I'm looking at life, you see, through Jerry's eyes. I was living in the twilight, living in the shadows, living in the darkness... like you.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "What do you think Junior? You think these hands - they've been soaking in Ivory Liquid?",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "22",	
+	"image": ""
+},
+
+{
 	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
 	"author": "George",
 	"image": ""
