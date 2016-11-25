@@ -293,7 +293,104 @@ exports.quotes = [
 	"episode": "2",	
 	"image": "./Images/19-2.png"
 },
-
+{
+	"quote": "My whole life has been a complete waste of time... and there's so much more to go.",
+	"author": "George",
+	"season": "3",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "It's the financial equivalent of a complete rectal examination.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "I've driven women to lesbianism before, but never a mental institution.",
+	"author": "George",
+	"season": "3",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "Stella!!!",
+	"author": "Elaine",
+	"season": "3",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "It's one day. Half a day, really. I mean you substract showers and meals, it's like twenty minutes.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "Two-hundred seats on a plane and I gotta wind up next to Yukon Jack and his dog Cujo!",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "I believe I referred to her personality as a potential science exhibit.",
+	"author": "Elaine",
+	"season": "3",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "I wanted to talk about how we had nothing to talk about.",
+	"author": "Elaine",
+	"season": "3",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "The library investigator's name is actually Bookman? -- That's amazing. That's like an ice cream man named Cone.",
+	"author": "Kramer",
+	"season": "3",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "Let me tell you something, funny boy... You know that little stamp? The one that says New York Public Library? Well, that may not mean anything to you, but that means a lot to me. One whole helluva lot. Sure, go ahead, laugh if you want to. I've seen your type before -- flashy, making the scene, flaunting convention. Yeah, I know what you're thinking... Why's this guy making such a big stink about old library books? Let me give you a hint, junior. Maybe we can live without libraries, people like you and me.... Maybe. Sure, we're too old to change the world. What about that kid, sitting down, opening a book right now in a branch of the local library and finding pictures of pee-pees and wee-wees in The Cat in the Hat and The Five Chinese Brothers. Doesn't he deserve better? Look, if you think this is about overdue fines and missing books, you'd better think again. This is about that kid's right to read a book without getting his mind warped. Or maybe that turns you on, Seinfeld... Maybe that's how you get your kicks... You and your goodtime buddies... I've got a flash for you, joy boy. Partytime is over.",
+	"author": "Lt. Bookman",
+	"season": "3",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "You'd better not screw up again, Seinfeld, because if you do, I'll be all over you like a pitbull on a poodle.",
+	"author": "Lt. Bookman",
+	"season": "3",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "If I am not in front of my building at 6:15 when my parents get there, they are going to put me on an aggravation installment plan that will compound with interest for decades.",
+	"author": "George",
+	"season": "3",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "You know, I've been issued a public urination pass by the city because of my condition. Unfortunately, my little brother ran out of the house with it this morning. Him and his friends are probably peeing all over the place.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "I can't carry a pen. I'm afraid I'll puncture my scrotum.",
+	"author": "Jerry",
+	"season": "3",
+	"episode": "6",	
+	"image": ""
+},
 {
 	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
 	"author": "George",
