@@ -623,13 +623,6 @@ exports.quotes = [
 	"image": ""
 },
 {
-	"quote": "It's like a sauna in here!",
-	"author": "Kramer",
-	"season": "3",
-	"episode": "17",	
-	"image": ""
-},
-{
 	"quote": "I would really like to have sex with a tall woman.",
 	"author": "George",
 	"season": "3",
@@ -752,21 +745,479 @@ exports.quotes = [
 	"quote": "What do you think Junior? You think these hands - they've been soaking in Ivory Liquid?",
 	"author": "Kramer",
 	"season": "3",
+	"episode": "1/2",	
+	"image": ""
+},
+{
+	"quote": "My personal acting technique is working with color. Imagining, then finding the emotional vibrational mood connected to the color. See, if you look through my scripts, you see that all my lines have a special color. So, I don't memorize language, I memorize colors. This way I can go through red, yellow, green, blue, and you have a full palette of emotions.",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "1/2",	
+	"image": ""
+},
+{
+	"quote": "Seemingly, but within that basic framework there are many subtle variations only discernible to an acute observer that reflect the many moods, the many shades, the many sides of George Costanza.",
+	"author": "George",
+	"season": "4",
+	"episode": "1/2",	
+	"image": ""
+},
+{
+	"quote": "Hello, 911? How are ya?",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "1/2",	
+	"image": ""
+},
+{
+	"quote": "Artistic integrity. Where did you come up with that? You're not artistic and you have no integrity.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "Salsa is now the number one condiment in America.Do you know why? Because people like to say 'Salsa!'",
+	"author": "George",
+	"season": "4",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "Yo-Yo Ma!",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "You wouldn't be here if it wasn't for me and my helmet. I saved your life! You would be dead! Dead! You would cease to exist! You would be gone for the rest of eternity! You wouldn't even begin to comprehend what that means!",
+	"author": "Newman",
+	"season": "4",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "Yes, I admit I was speeding, but it was to save a man's life. A close friend. An innocent person who wanted nothing more out of life than to love, to be loved, and to be a banker.",
+	"author": "Newman",
+	"season": "4",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "You know, a muffin can be very filling!",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "Why would I be insulted? I'm never insulted. You could call me baldy, dump soup on my head. Nothing insults me.",
+	"author": "George",
+	"season": "4",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "Have we been intimate?",
+	"author": "Elaine",
+	"season": "4",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "Don't tell me about business! I sold raincoats for thirty-five years!",
+	"author": "Morty",
+	"season": "4",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "Let me see if I understand this. In other words, you held out for... less money.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "My cubans!",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "What are you looking at? You never seen a kid in a bubble before?",
+	"author": "The Bubble Boy",
+	"season": "4",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "It's very hard being a stand-up comedian. Sometimes they don't laugh!",
+	"author": "Elaine",
+	"season": "4",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "It's crowded, the grass has big brown patches in it, they don't rake the sand traps. Not to mention the caliber of people you have to play with!",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "I have tremendous respect for people who work with feet. I mean, to dedicate yourself to the foot... You're toiling in virtual anonymity.",
+	"author": "George",
+	"season": "4",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "Jerry, Joe Davola. I have a hair on my tongue. Can't get it off. You know how much I hate that? Of course you do. You put it there. I know what you said about me, Seinfeld. I know you badmouthed me to the execs at NBC. Put the kibosh on my deal. Now I'm gonna put the kibosh on you. You know I've kiboshed before. And I will kibosh again.",
+	"author": "Joe Davola",
+	"season": "4",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "But officer, he threatened me. I don't understand, that's not right. What if it was the President of the United States, I bet you'd investigate. Well, so what? What's the difference? I'm a comedian of the United States. And I'll tell you, I'm under just as much pressure.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "You know, it is so sad. All your knowledge of high culture comes from Bugs Bunny cartoons.",
+	"author": "Elaine",
+	"season": "4",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "I don't want to be remembered. I want to be forgotten.",
+	"author": "George",
+	"season": "4",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "This whole sex thing is totally overrated. Now, the one thing you gotta be ready for is how the man changes into a completely different person five seconds after it's over. I mean, something happens to their personality. It's really quite astounding. It's like they committed a crime and they want to flee the scene before the police get there.",
+	"author": "Elaine",
+	"season": "4",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "I can't take it any more! She's drivin' me crazy. I can't sleep, I can't leave the house. When I'm here I'm climbin' the walls. Meanwhile I'm datin' a virgin, I'm in this contest... something's gotta give!",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "Too bad you couldn't do *that* for a living... You'd be very successful at it. You could sell out Madison Square Garden. Thousands of people could watch you. You could be a big star!",
+	"author": "George's Mom",
+	"season": "4",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "I hate rental cars. Nothing ever works: the window doesn't work, the radio doesn't work... and it smells like a cheap hooker.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "You see? Never be late for a plane with a girl. 'Cuz a girl runs like a girl-- with the little steps and the arms flailing out... You wanna make this plane, you've gotta run like a man! Get your knees up!",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "Look at you! You run like a girl! Run like a man! Lift your knees!",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "You *cannot* abandon people in the middle of an airport pickup! It's a binding social contract. We must go forward, not back.",
+	"author": "George",
+	"season": "4",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "I could have been a millionaire!! I could have been a FRAGRANCE millionaire!!!",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "That's the true spirit of Christmas; people being helped by people other than me.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "A pretty woman, you know, kinda short, big wall of hair, face like a frying pan.",
+	"author": "George",
+	"season": "4",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "A short guy with glasses, looked like Humpty Dumpty with a melon head.",
+	"author": "Ticket Lady(Describing George)",
+	"season": "4",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "A guy who's about five foot eleven, he's got uh, a big head and flared nostrils.",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "Men can sit through the most pointless, boring movie if there's even the slightest possibility that a woman will take her top off.",
+	"author": "Elaine",
+	"season": "4",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "Kramer goes to a fantasy camp. His whole life is a fantasy camp. People should plunk down two-thousand dollars to live like him for a week. Do nothing, fall ass-backwards into money, mooch food off your neighbors, and have sex without dating. *That's* a fantasy camp!",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "Would it kill you not to be so funny all the time? That's all I'm askin'. This woman thinks I'm very funny and now you're gonna be funny, so what am I gonna be? I'm gonna be a short bald guy with glasses who suddenly doesn't seem so funny.",
+	"author": "George",
+	"season": "4",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "Well, birthdays are merely symbolic of how another year's gone by and how little we've grown. No matter how desperate we are that someday a better self will emerge, each flicker of the candles on the cake we know it's not to be. That for the rest of our sad, wretched, pathetic lives, this is who we are to the bitter end. Inevitably, irrevocably. Happy birthday? No such thing.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "You bad man! You very bad man! You very lazy bad man!!",
+	"author": "Babu",
+	"season": "4",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "I am going to save up every rupee. For someday, I will get back to America, and when I do, I will exact vengeance on this man. I cannot forget it. He haunts me. He is a very bad man. Very, very bad man.",
+	"author": "Babu",
+	"season": "4",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "Divorce is very difficult, especially on the kids. Of course, I'm the result of my parents having stayed together, so you never know.",
+	"author": "George",
+	"season": "4",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "Looking at cleavage is like looking at the sun. You don't stare at it. It's too risky. You get a sense of it and then you look away.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "Not that there's anything wrong with that!",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "Yeah. I'm Buck Naked.",
+	"author": "George",
+	"season": "4",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "Every day it's something else with you. I don't know anything about you any more. Who are you? What kind of life are you leading? Who knows what you're doing? Maybe you're making porno films.",
+	"author": "George's Mother",
+	"season": "4",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "Oh, what's the point? When I like them, they don't like me, when they like me, I don't like them. Why can't I act with the ones I like the same way I do with the ones I don't like?",
+	"author": "George",
+	"season": "4",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "Yeah, I'm a great quitter. It's one of the few things I do well. I come from a long line of quitters. My father was a quitter, my grandfather was a quitter... I was raised to give up.",
+	"author": "George",
+	"season": "4",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "I would like to dip my bald head in oil and rub it all over your body.",
+	"author": "George",
+	"season": "4",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "Because the mail never stops. It just keeps coming and coming and coming, there's never a let-up. It's relentless. Every day it piles up more and more and more! And you gotta get it out but the more you get it out the more it keeps coming in. And then the bar code reader breaks and it's Publisher's Clearing House day!",
+	"author": "Newman",
+	"season": "4",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "Why would I be a leg man? I don't need legs. I have legs.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "In the whole world right now there's maybe three emergencies. Why would you think on this entire planet that you're one of those three?",
+	"author": "George",
+	"season": "4",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "Sometimes when I think you're the shallowest man I've ever met, you somehow manage to drain a little more out of the pool.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "Who's gonna turn down a Junior Mint? It's chocolate, it's peppermint -- it's delicious!",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "Produce section. Very provocative area. A lot of melons and shapes. Everyone's squeezing and smelling...",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "Y'know, the funny thing is, somehow I find her more appealing now... It's like if I knew she was a lesbian when we went out, I never would've broken up with her.",
+	"author": "George",
+	"season": "4",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "You don't understand what I'm up against. This is a force more powerful than anything you can imagine. Even Superman would be helpless against this kind of stench.",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Amazing! I drive them to lesbianism, and he brings 'em back!",
+	"author": "George",
+	"season": "4",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "First he vomits on me. Then he burns down my father's cabin. And now he's taken Mona away from me.",
+	"author": "Susan",
+	"season": "4",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Is it my imagination, or do really good-looking women walk a lot faster than everybody else?",
+	"author": "George",
+	"season": "4",
 	"episode": "22",	
 	"image": ""
 },
+{
+	"quote": "Isosceles. You know, I love the name Isosceles. If I had a kid, I would name him Isosceles. Isosceles Kramer.",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "This is our best model, the Cougar 9000. It's the Rolls Royce of wheelchairs. This is like, you're almost glad to be handicapped.",
+	"author": "Wheelchair Salesman",
+	"season": "4",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "Am I a hipster-doofus?",
+	"author": "Kramer",
+	"season": "4",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "You know the message you're sending out to the world with these sweatpants? You're telling the world, 'I give up. I can't compete in normal society. I'm miserable, so I might as well be comfortable.'",
+	"author": "Jerry",
+	"season": "4",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "I want to be the one person who doesn't die with dignity.",
+	"author": "George",
+	"season": "4",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "How'd you like it if I just pulled your heart out of your chest right now and shoved it down your throat?",
+	"author": "TV Kramer (to George)",
+	"season": "4",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "How could anyone not like him?",
+	"author": "Jerry's Mom",
+	"season": "4",
+	"episode": "23",	
+	"image": ""
+},
+
+
+
 
 {
 	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
 	"author": "George",
 	"image": ""
-},
-{
-
-	"quote": "Looking at cleavage is like looking at the sun. You don't stare at it. It's too risky. Ya get a sense of it and then you look away.",
-	"author": "Jerry",
-	"image": ""
-
 },
 {
 
