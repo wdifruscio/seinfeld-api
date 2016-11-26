@@ -16,6 +16,7 @@ app.get('/quotes',(req, res)=>{
     if(req){
         res.end(JSON.stringify(quotes));
     }
+    else throw err
 });
 
 app.get('/random',(req, res)=>{
@@ -24,33 +25,12 @@ app.get('/random',(req, res)=>{
         let random = quotes.quotes[quoteRandom];
         res.end(JSON.stringify(random));
     }
+    else throw err
 });
+
+app.use('*', express.static(__dirname + '/404'));
 
 app.listen(port, function () {
   console.log('App listening on port!')
 });
-
-// app.get('/george',(res,req)=>{
-//     if (req){
-        
-//     }
-// });
-
-// app.get('/jerry',(res,req)=>{
-//     if (req){
-        
-//     }
-// });
-
-// app.get('/kramer',(res,req)=>{
-//     if (req){
-        
-//     }
-// });
-
-// app.get('/elaine',(res,req)=>{
-//     if (req){
-        
-//     }
-// });
 
