@@ -1912,6 +1912,348 @@ exports.quotes = [
 	"image": ""
 },
 {
+	"quote": "I'm Cosmo Kramer, the Assman!",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Jerry? Yes, I suppose he is white. You know, I never really thought about it. I don't see people in terms of color. You know, there's someone I'd like you to meet. Hand on... (To phone) Is Mr. Morgan in?",
+	"author": "George",
+	"season": "6",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "Yeah, but before I met up with her, I stopped to look at the monkeys, when all of a sudden I am hit in the face with a banana peel. I turn and look and there is this monkey really laughing it up. Then someone tells me that he did it. Well, I pick up the banana peel and I wait for that monkey to turn around. And then I *whap* let him have it.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": " Kramer, you threw a banana peel at a monkey?",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "Yeah, white meat. And if I see one piece of dark meat on there. It's your ass buster.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "24",	
+	"image": ""
+},
+{
+	"quote": "I'm much more comfortable criticizing people behind their backs.",
+	"author": "George",
+	"season": "7",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": " It can never be erased. It'll follow us wherever we go for the rest of our lives. I'll never be able to get a job. I mean, doesn't that concern you? Everything I've worked for...down the drain because of one stupid mistake. I mean, aren't we entitled to make one mistake in our lives, Jerry?",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "In your situation the only sex you're going to have better than make-up sex is if you're sent to prison and you have a conjugal visit.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": " Yeah that's going to be a problem. It's gonna be a problem for them. This a clear violation of your rights as a consumer. It's an infringement on your constitutional rights. It's outrageous, egregious, preposterous.",
+	"author": "Jackie",
+	"season": "7",
+	"episode": "3",	
+	"image": ""
+},{
+	"quote": " You put the balm on? Who told you to put the balm on? I didn't tell you to put the balm on. Why'd  you put the balm on? You haven't even been to see the doctor. If your gonna put a balm on, let a doctor put a balm on.",
+	"author": "Jackie",
+	"season": "7",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "I'd rather be dating the blind. You know, you could let the house go. You could let yourself go. A good looking blind woman doesn't even know you're not good enough for her.",
+	"author": "George",
+	"season": "7",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "So, what you are saying is that ninety to ninety-five percent of the population is undateable?",
+	"author": "Elaine",
+	"season": "7",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "Women don't respect salad eaters.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "When you look annoyed all the time, people think that you're busy.",
+	"author": "George",
+	"season": "7",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "I'm not taking a soak in that human bacteria vat you got goin' there.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "We all get a little cuckoo sometimes, George. I used to be like you. Berating personnel until they cried, calling managers on the field during a game, threatening to move the team to New Jersey, just to upset people. Then I found a way to relax. I've got two words to say to you, George... Hot Tub!",
+	"author": "George Steinbrenner",
+	"season": "7",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "You can't eat this soup standing up, your knees buckle.",
+	"author": "George",
+	"season": "7",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "The guy who runs the place is a little temperamental, especially about the ordering procedure. He's secretly referred to as the Soup Nazi.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "No soup for you!",
+	"author": "The Soup Nazi",
+	"season": "7",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "He's not a Nazi. He just happens to be a little eccentric. Most geniuses are.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "So, essentially, you chose soup over a woman?",
+	"author": "Elaine",
+	"season": "7",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "You're through, Soup Nazi. Pack it up. No more soup for you. Next!",
+	"author": "Elaine",
+	"season": "7",
+	"episode": "6",	
+	"image": ""
+},{
+	"quote": "If you're in some situation where some fast cash will save your life, I'll give you the code.",
+	"author": "George",
+	"season": "7",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "There's nothing more pathetic than a grown man who's afraid of a woman.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": `"You have no idea of the magnitude of this thing. If she is allowed to infiltrate this world then George Costanza as you know him ceases to exist. You see, right now I have Relationship George. But there is also Independent George. That's the George you know, the George you grew up with... Movie George, Coffee Shop George, Liar George, Bawdy George."
+"I love that George." "Me too, and he's dying. If Relationship George walks through this door, he will kill Independent George. A George divided against itself cannot stand!"`,
+	"author": "George and Jerry",
+	"season": "7",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "This is totally different! That was my secret, this is Jerry's secret! There's...there's attorney-client priveleges here! If I play it by your rule, no one'll ever confide in me again, I'll be cut out of the loop!",
+	"author": "George",
+	"season": "7",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": " Well, you know, I was thinking about what you said before, and...you're right, I've never really been a couple, so...if that's the rule, then I'm gonna go by the rule.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "Elaine...let me just explain something to you. See, this is not just a weekend routine...I'm on the verge of make-up sex here. You know about make-up sex?",
+	"author": "George",
+	"season": "7",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "I mean, she's giving and caring and genuinely concerned about the welfare of others - I can't be with someone like that!",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "Yeah, it was, but then I just couldn't decide if he was really sponge-worthy.",
+	"author": "Elaine",
+	"season": "7",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "Now see, this is what the holidays are all about. Three buddies sitting around, chewing gum.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "I think I finally figured out what the flavor is in this gum. It's a little lo-meiny.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "Well, why go to a fine restaurant when you could just stick something in the microwave... Why go to the park and fly a kite when you could just pop a pill?",
+	"author": "George",
+	"season": "7",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "I don't want John thinking that I'm hot and heavy if he's not hot and heavy. I'm trying to get a little squirrel to come over to me here. I don't want to make any big sudden movements. I'll frighten him away.",
+	"author": "Elaine",
+	"season": "7",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "Let me understand. You've got the hen, the chicken and the rooster. The rooster goes with the chicken. So, who's having sex with the hen?",
+	"author": "Frank Costanza",
+	"season": "7",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "This woman has never, not once, ever, as long as I've known her, worn a bra.",
+	"author": "Elaine",
+	"season": "7",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "Have I ever bought you a jockstrap as a gift?",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "A woman just walking around in broad daylight with nothing but a bra on? She's a menace to society.",
+	"author": "Elaine",
+	"season": "7",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "It's lewd, lascivious, salacious, outrageous!",
+	"author": "Jackie",
+	"season": "7",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "I miss the days when they made toys that could kill a kid.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "Well, I was under the impression that I could take anything I wanted from your fridge, and you could take whatever you want from mine.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "A wise man once taught me the healing power of the body's natural pressure points. He sells t-shirts outside the World Trade Center.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "I don't think I can talk to you any more. I feel inferior.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "I have never been anyone's type, but apparently, this Marisa Tomei loves funny, quirky, bald men.",
+	"author": "George",
+	"season": "7",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "I'm not force-feeding myself a steak at four-thirty to save a couple of bucks, I'll tell you that!",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "Low flow? I don't like the sound of that.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "If I don't have a good shower, I am not myself. I feel weak and ineffectual. I'm not Kramer.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "It's disgusting. I'm sitting there in a tepid pool of my own filth. All kinds of microscopic parasites and organisms having sex all around me.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "Look at you, you're disgusting. You're bald, you're paunchy. All kinds of sounds are emanating from your body twenty-four hours a day. If there's a woman that can take your presence for more than ten consecutive seconds, you should hang on to her like grim death... which is not far off by the way.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "14",	
+	"image": ""
+},
+{
 	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
 	"author": "George",
 	"image": ""
