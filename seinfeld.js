@@ -1210,10 +1210,707 @@ exports.quotes = [
 	"episode": "23",	
 	"image": ""
 },
-
-
-
-
+{
+	"quote": "The woman had an orgasm under false pretenses. That's sexual perjury!",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "This peach is sub-par.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "They don't have a decent piece of fruit at the supermarket. The apples are mealy, the oranges are dry... I don't know what's going on with the papayas!",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "Borrowing money from a friend is like having sex. It just completely changes the relationship.",
+	"author": "George",
+	"season": "5",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "Oh, those are nice. Ya know, I never noticed this before. They're smooth, creamy, delicate, yet masculine.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "I don't know what to believe. You're eatin' onions, you're spottin' dimes, I don't know what the hell is going on!",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "It's a Commando-8, 12,000 BTU's. It's gonna be like a meat locker in here!",
+	"author": "Jerry's Mom",
+	"season": "5",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "Retail is for suckers.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "Oh yeah, I've been known to drink a beer or two, but then again, I've been known to do a lot of things.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "Here's to feeling good all the time.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "Hey, I'm telling you, the pig-man is alive. The government has been experimenting with pig-men since the 50's.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "I wish there were pig-men. You get a few of those pig-men walking around, suddenly I'm looking a lot better. That way if someone wanted to fix me up they could say, 'Hey, at least he's no pig-man.'",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "You remember this: When you control the mail, you control information!",
+	"author": "Newman",
+	"season": "5",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "How about six? Six is good. You got a problem with six?",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "You don't eat Oreos? The way you break 'em open and.... It's like you're having sex with 'em.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "You know what I would do if I was running for mayor? One of my campaign themes would be that everybody should wear nametags all the time to make the city friendlier.",
+	"author": "Elaine",
+	"season": "5",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "My whole life is a lie.",
+	"author": "George",
+	"season": "5",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "I could raise enough money to cure polio.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "Well, a lot of people consider me small and prestigious.",
+	"author": "George",
+	"season": "5",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "I show up! I pretend I have the job. The guy's on vacation. If I have the job, it's fine. If I don't have the job, by the time he comes back I'm ensconced.",
+	"author": "George",
+	"season": "5",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "I haven't vomited in thirteen years.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "This woman hates me so much, I'm starting to like her.",
+	"author": "George",
+	"season": "5",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "Hey! I am looser than creamed corn.",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "Hey, you know what would make a great coffee table book? A coffee table book about coffee tables!",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "Ya know, I don't get it. I'm not allowed to ask a Chinese person where a Chinese restaurant is? I mean, aren't we all getting a little too sensitive? I mean, somebody asks me which way is Israel, I don't fly off the handle.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "I can’t believe how easy it is. I’m virtually Orthodox. All I have to do is read a few books, memorize a few prayers, and I’m in the club.",
+	"author": "George",
+	"season": "5",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": " She told me. She said she’s never had a man stir up all of these feelings inside of her. She’s questioning her faith. She’s thinking of leaving the church. Oh, uh, this power. I’m dangerous Jerry, I’m very very dangerous!",
+	"author": "Kramer",
+	"season": "5",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "Elaine, he's a male bimbo. He's a mimbo!",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "It's a different world when you're with a cool guy.",
+	"author": "George",
+	"season": "5",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "No, I don't have a square to spare. I can't spare a square.",
+	"author": "Jane",
+	"season": "5",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "The key to eating a black and white cookie, Elaine, is you want to get some black and some white in each bite. Nothing mixes better than vanilla and chocolate. And yet, still, somehow racial harmony eludes us. If people would only look to the cookie. All our problems would be solved.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "Nobody takes better care of their hair than me. You can serve dinner on my head.",
+	"author": "Elaine",
+	"season": "5",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "Why couldn't you make me an architect? You know I always wanted to pretend that I was an architect.",
+	"author": "George",
+	"season": "5",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "So I started to walk into the water. I won't lie to you boys, I was terrified. But I pressed on, and as I made my way past the breakers a strange calm came over me. I don't know if it was divine intervention or the kinship of all living things, but I tell you Jerry, at that moment I was a marine biologist.",
+	"author": "George",
+	"season": "5",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "The sea was angry that day, my friends, like an old man trying to send back soup in a deli.",
+	"author": "George",
+	"season": "5",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "This woman is bending my mind into a pretzel.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "Did you just roll your eyes at him? Because let me tell you something. If anybody should be rolling their eyes, it is me, at him, about you.",
+	"author": "Elaine",
+	"season": "5",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "If I was a woman I'd be down on the dock waiting for the fleet to come in.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "I spend so much time trying to get their clothes off, I never thought of taking mine off.",
+	"author": "George",
+	"season": "5",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "You know, George, they're doing wonderful things at mental institutions these days. I'd be happy to set up a meet and greet.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "I'm really enjoying this marriage thing. You think about each other, you care about each other. It's wonderful. Plus, I love saying 'my wife'. Once I started saying it, I couldn't stop. 'My wife' this, 'My wife' that. It's an amazing way to begin a sentence.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "I guess I just wasn't ready for the responsibilities of a pretend-marriage.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "Hey, believe me, baldness will catch on. When the aliens come, who do you think they're gonna relate to? Who do you think's gonna be the first ones getting a tour of the ship?",
+	"author": "George",
+	"season": "5",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "Booing and hissing are not part of the show. You boo puppets. You hiss villains in silent movies.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": `"After he heckled Toby, she got so upset she ran out of the building and a street sweeper ran over her foot and severed her pinky-toe."
+"That's unbelievable!"
+"Yeah, then after the ambulance left, I found the toe. So, I put it in a Cracker Jack box, filled it with ice and took off for the hospital."
+"You ran?"
+"No, I jumped on the bus. I told the driver, 'I got a toe here buddy. Step on it!'"
+"Holy cow!"
+"Yeah yeah, then all of a sudden this guy pulls out a gun. Well, I knew any delay's gonna cost her her pinky-toe, so I got out of the seat and I started walking towards him. He says, 'Where do you think you're going, Cracker Jack?' I says, 'Well, I got a little prize for you, buddy.' Pwaa! Pwaa! Keeyah! Knocked him out cold!"
+"How could you do that?"
+"Yeah, then everybody is screaming because the driver, he's passed out because of all the commotion. The bus is out of control! So I grab him by the collar, I take him out of the seat, I get behind the wheel... Now I'm driving the bus!"
+"You're Batman."
+"Yeah, I am Batman. Then the mugger, he comes to and he starts choking me. So, I'm fighting him off with one hand and I kept driving the bus with the other. Then I managed to open up the door and I kicked him out the door with my foot at the next stop."
+"You kept making all the stops?"
+"Well, people kept ringing the bell!"
+"What about the toe? What happened to the toe?"
+"Well, I am happy to say that the little guy is back in place at the end of the line."
+"You did all this for a pinky-toe?"
+"Well, it's a valuable appendage."`,
+	"author": "Kramer",
+	"season": "5",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "Is it me, or was that the ugliest baby you have ever seen?",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Like when a man goes swimming... Afterwards...",
+	"author": "George",
+	"season": "5",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Look, you don't understand. There was shrinkage.",
+	"author": "George",
+	"season": "5",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Elaine, don't get too down. Everything will even out. See, I have two friends. You were up, he was down. Now he's up, you're down. You see how it all evens out for me?",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "I'm the opposite of every guy you've ever met.",
+	"author": "Jerry",
+	"season": "5",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "Bald men with no jobs and no money who live with their parents don't approach strange women.",
+	"author": "George",
+	"season": "5",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "These doves were murdered.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "Oh. I'm watching my height. My doctor doesn't want me to get any taller.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "Generally speaking, you don't need any extra incentive to murder a dry cleaner.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "Newman never stops seeing anybody. Newman will see whoever is willing to see him.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": `"Maybe he's an enigma, a mystery wrapped in a riddle." "He's a mystery wrapped in a Twinkie."`,
+	"author": "Jerry",
+	"season": "6",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "Where are the totebags? I'm not leaving the premises without totebags. I was promised totebags and totebags I shall have.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "I saw someone on the street eating M&M's with a spoon.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "If I like their race, how can that be racist?",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "I'm out there Jerry and loving every minute of it.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "It's a shame his parents didn't get divorced thirty years ago. He could've been normal.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "I need the secure packaging of Jockeys. My boys need a house!",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "The only thing between him and us is a thin layer of gaberdine.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "You know what I love? How there's two nuts named after people: Hazel and Filbert.",
+	"author": "George	",
+	"season": "6",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "So let me get this straight. You find yourself in the kitchen, you see an eclair in the receptacle, and you think to yourself, 'What the hell, I'll just eat some trash.'",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "But I'm afraid of clowns.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": `"I'm better with the mothers than I am with the daughters." "Maybe you should date the mothers." "If I could talk to the mothers and have sex with the daughters, then I'd really have something going."`,
+	"author": "George and Jerry",
+	"season": "6",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "Horse manure's not that bad. I don't even mind the word manure. It's newer, which is good, and a ma in front of it. Ma-Newer. When you consider the other choices, manure is actually pretty refreshing.",
+	"author": "George",
+	"season": "6",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "I really like depriving myself of things. It's fun! Very monastic.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "What's so great about a mom and pop store? Let me tell you something, if my mom and pop ran a store I wouldn't shop there.",
+	"author": "George",
+	"season": "6",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "For all I know, this guy went out of his way to not invite you. How am I going to feel if I show up with an uninvited, unwelcome intruder?",
+	"author": "George",
+	"season": "6",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "I would give up red meat just to get a glimpse of you in a bra.",
+	"author": "George",
+	"season": "6",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "Yes, this is a business office, but I'm not a businessman per se. I'm here working for the people. I'm causing dissent, stirring the pot, getting people to question the whole rotten system.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "Fine, you want to be a communist, be a communist. Can't you at least look like a successful communist?",
+	"author": "Elaine",
+	"season": "6",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "All my life I've been running away from that name. That's why I wouldn't tell anybody. But I've been thinking about it. All this time I'm trying not to be me. I'm afraid to face who I was. But I'm Cosmo, Jerry, I'm Cosmo Kramer, and that's who I'm going to be. From now on, I'm Cosmo!",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "Do you ever just get down on your knees and thank God that you know me and have access to my dementia?",
+	"author": "George",
+	"season": "6",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "The jokes kept bouncing off her like Superman.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "I would drape myself in velvet if it were socially acceptable.",
+	"author": "George",
+	"season": "6",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "Alright, fine, you sit there and you watch while Newman takes over the world. But he'd be a horrible leader. And you know who's going to suffer? The little people. You and George.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "I don't trust this guy. I think he re-gifted, and then he de-gifted, and now he's using an upstairs invite as a springboard to a Super Bowl sex romp.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "You know what the Ukraine is? It's a sitting duck. A road apple, Newman. The Ukraine is weak. It's feeble. I think it's time to put the hurt on the Ukraine.",
+	"author": "George",
+	"season": "6",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": `"What's this?
+			"It's an eyepatch."
+			"You look like a pirate."
+			"I want to be a pirate`,
+	"author": "Kramer and Jerry",
+	"season": "6",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "When someone is lying, is it true that their pants are actually on fire?",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "I feel like my old self again... Totally inadequate, completely insecure, paranoid, neurotic... It's a pleasure.",
+	"author": "George",
+	"season": "6",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "I got rejected by a bald woman.",
+	"author": "George",
+	"season": "6",
+	"episode": "16",	
+	"image": ""
+},{
+	"quote": "Well, frankly, outside of a sexual relationship, I don't see the point to it. I'm not thrilled with all the handshaking either, but one step at a time.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "No, no, a bra is for ladies. Meet the Bro!",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": `"Bro's no good. Too ethnic."
+			"You got something better?"
+			"How about the Mansiere?"
+			"Mansiere."
+			"That's right. A brassiere for a man."`,
+	"author": "Kramer and Frank Costanza",
+	"season": "6",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "He's a comedian, Mrs. Payton. They don't know how to do anything.",
+	"author": "Elaine",
+	"season": "6",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "Say you're getting intimate with a woman, you don't want her fumbling and struggling back there. I think we've all experienced that.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "It's like having a circus in my mouth.",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "See, the thing of it is, there's a lot of ugly people out there walking around but they don't know they're ugly because nobody actually tells them.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "I'm grotesque. I look like a troll.",
+	"author": "George",
+	"season": "6",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "All those mechanics do is work all day with their hands and their big muscular arms on machines and then they come home dripping with animal sexuality like Stanley Kowalski. What a huge turn-off that is.",
+	"author": "Elaine",
+	"season": "6",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "We were in the garage. You know how garages are. They're conducive to sex talk. It's a high testosterone area.",
+	"author": "Jerry",
+	"season": "6",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "I'm Cosmo Kramer, the Assman!",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Have you ever met a proctologist? They usually have a very good sense of humor. You meet a proctologist at a party, don't walk away. Plant yourself there because you will hear the funniest stories you've ever heard. See, no one wants to admit to them that they stuck something up there. Never. It's always an accident. Every proctologist story ends in the same way... 'It was a million to one shot, doc, million to one.' ",
+	"author": "Kramer",
+	"season": "6",
+	"episode": "21",	
+	"image": ""
+},
 {
 	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
 	"author": "George",
@@ -1236,13 +1933,6 @@ exports.quotes = [
 {
 
 	"quote": "Jerry, just remember, it's not a lie if you believe it.",
-	"author": "George",
-	"image": ""
-
-},
-{
-
-	"quote": "Do you ever get down on your knees and thank God you know me and have access to my dementia",
 	"author": "George",
 	"image": ""
 
@@ -1290,20 +1980,7 @@ exports.quotes = [
 	"image": ""
 
 },
-{
 
-	"quote": "Just remember, when you control the mail, you control... information.",
-	"author": "Newman",
-	"image": ""
-
-},
-{
-
-	"quote": "I don't trust the guy. I think he regifted, then he degifted, and now he's using an upstairs invite as a springboard to a Super bowl sex romp.",
-	"author": "Jerry",
-	"image": ""
-
-},
 {
 
 	"quote": "I don't think I've ever been to an appointment in my life where I wanted the other guy to show up.",
@@ -1334,13 +2011,6 @@ exports.quotes = [
 },
 {
 
-	"quote": "Here's to feeling good all the time.",
-	"author": "Kramer",
-	"image": ""
-
-},
-{
-
 	"quote": "I'll be back. We'll make out.",
 	"author": "David Puddy",
 	"image": ""
@@ -1353,11 +2023,4 @@ exports.quotes = [
 	"image": ""
 
 },
-{
-
-	"quote": "You very bad man, Jerry. Very bad man.",
-	"author": "Babu",
-	"image": ""
-
-    }
 ];
