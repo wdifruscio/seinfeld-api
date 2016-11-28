@@ -14,7 +14,6 @@ exports.quotes = [
 	"episode": "1",
 	"image": "./Images/1-2.png"
 },
-
 {
 	"quote": "You done with this?",
 	"author": "Kramer",
@@ -2229,140 +2228,757 @@ exports.quotes = [
 	"quote": "Low flow? I don't like the sound of that.",
 	"author": "Kramer",
 	"season": "7",
-	"episode": "14",	
+	"episode": "16",	
 	"image": ""
 },
 {
 	"quote": "If I don't have a good shower, I am not myself. I feel weak and ineffectual. I'm not Kramer.",
 	"author": "Kramer",
 	"season": "7",
-	"episode": "14",	
+	"episode": "16",	
 	"image": ""
 },
 {
 	"quote": "It's disgusting. I'm sitting there in a tepid pool of my own filth. All kinds of microscopic parasites and organisms having sex all around me.",
 	"author": "Kramer",
 	"season": "7",
-	"episode": "14",	
+	"episode": "16",	
 	"image": ""
 },
 {
 	"quote": "Look at you, you're disgusting. You're bald, you're paunchy. All kinds of sounds are emanating from your body twenty-four hours a day. If there's a woman that can take your presence for more than ten consecutive seconds, you should hang on to her like grim death... which is not far off by the way.",
 	"author": "Jerry",
 	"season": "7",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "Now this is remarkable. I'm lounging, and yet, my pants remain perfectly creased.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "Oh, I'm percolating, Jerry. I'm telling you, I have never felt so fertile. I'm mossy, Jerry. My brain is mossy. Listen to this idea. A restaurant that serves only peanut butter and jelly.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "I don't know! (building to a shout) But I woke up in the Hudson river in a SACK!! I think she drugged me, but she's a murderer and I'm calling the cops.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "87",	
+	"image": ""
+},
+{
+	"quote": "Well Bob Sacamano, he stayed with me once for a year and a half.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "It's been known to happen....... telling you right now Elaine, this guy 's gonna dangle that dress in front of you like a dirt farmer dangles a carrot in front of a mule.",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "I'M NOT A PIMP.!!",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "I am never putting on another piece of clothing unless it's straight out of the dryer.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "Let me be perfectly blunt. I don't care for you, Costanza. You hang out on the west side of the building with Seinfeld all day laughing it up, wasting your lives.",
+	"author": "Newman",
+	"season": "7",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "You've got your shirt in my oven?",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": " Hey. You put your groceries under the hood of my car?",
+	"author": "Jerry",
+	"season": "7",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "A mechanic forms an emotional attachment, thinks he's gonna lose the car, he panics, he does something rash. I'm gonna ask you somepersonal questions. I'm sorry if I touch a nerve, but I think it'll help with the case. Had you been taking good care of the car?",
+	"author": "The Detective(After Jerry's mechanic steals his car.)",
+	"season": "7",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Yeah, don't worry Jerry. We're right on this guy like stink on a monkey! I'll check back with you.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": " Ah, look, I..I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.",
+	"author": "Newman",
+	"season": "7",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "I can't get my pants off, and Mickey's audition is in twenty minutes! You know, I'm supposed to be a business man, I gotta be in costume!",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "Hey!! Buddy. I thought of a great invention for driving. A periscope in a car, so you can see the traffic.",
+	"author": "Kramer",
+	"season": "7",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "I was free and clear. I was living the dream. I was stripped to the waist eating a block of cheese the size of a car battery.",
+	"author": "George",
+	"season": "8",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "Between you and me, I always thought Kramer was a bit of a doofus. But, he believed in me. You did not. So, as I see it, he's not the doofus. You are the doofus.",
+	"author": "Elaine",
+	"season": "8",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "Oh, she's uh...she's real. She can bring home the bacon and fry it in the pan.",
+	"author": "Kramer",
+	"season": "8",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "George, Quinn here was moving a chair...he lost his balance and dropped it...it must have fallen on your briefcase, which, for some reason, contained a running tape recorder?",
+	"author": "Wyck",
+	"season": "8",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "I can't spend the rest of my life coming into this stinking apartment every ten minutes to pore over the excruciating minutia of every single daily event.",
+	"author": "Elaine",
+	"season": "8",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "She had man-hands!",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "Women like that are like members of a secret tribe living in a forbidden city. People like me have not been inside in thousands of years.",
+	"author": "George",
+	"season": "8",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "You know what they say, 'You don't sell the steak, you sell the sizzle.'",
+	"author": "Kramer",
+	"season": "8",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "I could drop you like a bag of dirt.",
+	"author": "Elaine",
+	"season": "8",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "He wrote the check and I cashed it.",
+	"author": "Elaine",
+	"season": "8",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "It's more like a full-body dry heave set to music.",
+	"author": "George",
+	"season": "8",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "Who's going to bomb you? An airline? For all the stupid little peanut jokes?",
+	"author": "George",
+	"season": "8",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "You don't even know what a write-off is.",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "You know what? I can't do this. I can't read books anymore; books on tape have ruined me, Jerry. I need that nice voice. This book has *my* voice. I hate my voice.",
+	"author": "George",
+	"season": "8",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "Well I also dropped it on the way over. Look I'm in trouble, I got no skills. I can't peel, I can't chop, I can't grate. I can't mince! I got no sense of flavor, obviously. You know, I gotta talk to Frank.",
+	"author": "Kramer",
+	"season": "8",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "Why do they call it Ovaltine? The mug is round. The jar is round. They should call it round tine. That's gold, Jerry! Gold!",
+	"author": "Banya",
+	"season": "8",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "Here you're just another apple. But in Japan, you're an erotic fruit. Like an orange, which is rare there.",
+	"author": "Kramer",
+	"season": "8",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "So you're angry that this bizarre carpet cabal made no attempt to abduct you?",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "I'm like a commercial jingle. First it's a little irritating. Then you hear it a few times. You're humming it in the shower. By the third date, it's 'Buy Mennen!'"
+,
+	"author": "George",
+	"season": "8",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "The greasy doorknob, the constant licking of the fingers. He's hooked on this chicken, isn't he?",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "8",	
+	"image": ""
+},{
+	"quote": "Newman, you wouldn't eat broccoli if it was deep-fried in chocolate sauce.",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "I can do six weeks standing on my head. I'm a sexual camel.",
+	"author": "George",
+	"season": "8",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "To a woman, sex is like the garbage man. You just take for granted the fact that any time you put some trash out on the street, a guy in a jumpsuit's gonna come along and pick it up. But now, it's like a garbage strike. The bags are piling up in your head. The sidewalk is blocked. Nothing's getting through. You're stupid.",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "This is the most public yet of my many humiliations.",
+	"author": "Jackie Chiles",
+	"season": "8",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "Guys, hitting is not about muscle. It's simple physics. Calculate the velocity, v, in relation to the trajectory, t, in which g, gravity, of course remains a constant. It's not complicated.",
+	"author": "George",
+	"season": "8",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "Newman is my sworn enemy. And he lives down the hall from my home. My home, Elaine! Where I sleep, where I come to play with my toys.",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "A bird ran into my giant freak-head.",
+	"author": "Elaine",
+	"season": "8",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "I couldn't get there in time to stop it, but you should have seen Little Jerry, Jerry! Flappin' his wings and struttin' his stuff! He was peckin' and weavin' and bobbin' and talkin' trash! He didn't even have to touch him! The other rooster ran out of the ring. The whole fight lasted two seconds.",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "Yeah. Hey Jerry, listen to this. I discovered something even better than conjugal visit sex. Fugitive sex!",
+	"author": "George",
+	"season": "8",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "George, this is a little too much for me - escaped convicts, fugitive sex...I got a cockfight to focus on.",
+	"author": "Jerry",
+	"season": "8",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "You won't regret this, Miss Benes. What time should I be in? I get up at four, I could be here as early as four twenty-five.",
+	"author": "Morty",
+	"season": "8",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "The jerk store called, they're running out of you!",
+	"author": "George",
+	"season": "8",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "You know, George, the ocean called. They're running out of shrimp.",
+	"author": "Riley",
+	"season": "8",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "I slipped - and fell in the mud. Ruining the very pants I was about to return.",
+	"author": "Kramer",
+	"season": "8",
 	"episode": "14",	
 	"image": ""
 },
 {
-	"quote": "It became very clear to me sitting out there today that every decision I've made in my entire life has been wrong. My life is the complete opposite of everything I want it to be. Every instinct I have, in every aspect of life, be it something to wear, something to eat - it's all been wrong.", 
-	"author": "George",
-	"image": ""
-},
-{
-
-	"quote": "You have the chicken, the hen, and the rooster. The chicken goes with the hen... So who is having sex with the rooster",
-	"author": "Frank Costanza",
-	"image": ""
-
-},
-{
-
-	"quote": "The cat - mrrreeeooowww - is out of the bag!",
+	"quote": "Oh, I bought a bunch of bunion stories from Newman - but they all stink!",
 	"author": "Kramer",
+	"season": "8",
+	"episode": "14",	
 	"image": ""
-
 },
 {
-
-	"quote": "Jerry, just remember, it's not a lie if you believe it.",
+	"quote": "My whole life I have never made a great entrance.",
 	"author": "George",
+	"season": "8",
+	"episode": "15",	
 	"image": ""
-
 },
 {
-
-	"quote": "We don't know how long this will last. They are a very festive people.",
-	"author": "Elaine",
-	"image": ""
-
-},
-{
-
-	"quote": "You know I always wanted to pretend I was an architect.",
-	"author": "George",
-	"image": ""
-
-},
-{
-
-	"quote": "If you're not gonna be a part of a civil society, then just get in your car and drive on over to the East Side.",
+	"quote": "That stuff is unbelievable. I'd eat it out of a dumpster.",
 	"author": "Kramer",
+	"season": "8",
+	"episode": "16",	
 	"image": ""
-
 },
 {
-
-	"quote": "I'm speechless. I have no speech.",
-	"author": "George",
-	"image": ""
-
-},
-{
-
-	"quote": "I have been performing feats of strength all morning.",
-	"author": "Frank Costanza",
-	"image": ""
-
-},
-
-{
-
-	"quote": "Hi, my name is George, I'm unemployed and I live with my parents.",
-	"author": "George",
-	"image": ""
-
-},
-
-{
-
-	"quote": "I don't think I've ever been to an appointment in my life where I wanted the other guy to show up.",
-	"author": "George",
-	"image": ""
-
-},
-{
-
-	"quote": "Boy, a little too much chlorine in that gene pool.",
-	"author": "Jerry",
-	"image": ""
-
-},
-{
-
-	"quote": "Do you have any idea how much time I waste in this apartment?",
+	"quote": "These Dominicans really know their way round a crepe. Look at that.It's like they're rolling a double corona.",
 	"author": "Kramer",
+	"season": "8",
+	"episode": "17",	
 	"image": ""
-
 },
 {
+	"quote": "I love a good nap. Sometimes it's the only thing getting me out of bed in the morning.",
+	"author": "George",
+	"season": "8",
+	"episode": "18",	
+	"image": ""
+},
 
-	"quote": "See, this is what the holidays are all about. Three buddies sitting around chewing gum.",
+{
+	"quote": "Listen to this. Marcy comes over and she tells me that her ex-boyfriend was over late last night and 'yada yada yada I'm really tired today.' You don't think she'd yada yada sex?",
+	"author": "George",
+	"season": "8",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "Come celebrate the millennium, with Newmanniun. Newman!",
 	"author": "Kramer",
+	"season": "8",
+	"episode": "20",	
 	"image": ""
-
 },
 {
-
-	"quote": "I'll be back. We'll make out.",
-	"author": "David Puddy",
-	"image": ""
-
-},
-{
-
-	"quote": "Ah, look, I? I'm sorry to bother you, but I'm a US postal worker and my mail truck was just ambushed by a band of backwoods mail-hating survivalists.",
+	"quote": "For me, the next millennium must be Jerry-free.",
 	"author": "Newman",
+	"season": "8",
+	"episode": "20",	
 	"image": ""
-
 },
+{
+	"quote": "You know, if you take everything I've done in my entire life and condense it down into one day, it looks decent.",
+	"author": "George",
+	"season": "8",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "When do you start to worry about ear hair?",
+	"author": "George",
+	"season": "8",
+	"episode": "21",	
+	"image": ""
+},
+{
+	"quote": "Because men think if women are grabbing and clawing at each other, there's a chance they might somehow kiss.",
+	"author": "Kramer",
+	"season": "8",
+	"episode": "22",	
+	"image": ""
+},
+{
+	"quote": "I feel like an out-of-work porn star.",
+	"author": "George",
+	"season": "9",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "Boy, a month in Europe with Elaine. That guy's coming home in a body bag.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "1",	
+	"image": ""
+},
+{
+	"quote": "Oh man, I think I cooked myself.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "1",	
+	"image": ""
+},{
+	"quote": "Breaking up is like knocking over a Coke machine. You can't do it in one push. You gotta rock it back and forth a few times, and then it goes over.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "You know, Darren, if you had told me twenty-five years ago that some day I'd be standing here about to solve the world's energy problems, I would've said you were crazy. Now let's push this giant ball of oil out this window.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "2",	
+	"image": ""
+},
+{
+	"quote": "Serenity now, insanity later.",
+	"author": "Lloyd Brawn",
+	"season": "9",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "George, letting my emotions out was the best thing I've ever done. Sure, I'm not funny anymore, but there's more to life than making shallow, fairly obvious observations.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "3",	
+	"image": ""
+},
+{
+	"quote": "Food and sex. Those are my two passions. It's only natural to combine them.",
+	"author": "George",
+	"season": "9",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "Now if you'll excuse me, I have to go fill my freezer with my own blood.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "I can feel his blood inside of me. Borrowing things from my blood.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "4",	
+	"image": ""
+},
+{
+	"quote": "No Chinese leftovers. George is gettin' suspicious.",
+	"author": "George",
+	"season": "9",
+	"episode": "5",	
+	"image": ""
+},
+{
+	"quote": "Wait a minute. You mean to say that you drugged a woman so you could take advantage of her toys?",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "6",	
+	"image": ""
+},
+{
+	"quote": "I haven't had a decent sandwich in thirteen years.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "I've cut slices so thin, I couldn't even see them.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "7",	
+	"image": ""
+},
+{
+	"quote": "You can stuff your sorries in a sack, mister!",
+	"author": "George",
+	"season": "9",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "Why not? We're neighbors. What's mine is yours.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "8",	
+	"image": ""
+},
+{
+	"quote": "But the thing you don't realize is that there's good naked and bad naked. Naked hair brushing - good. Naked crouching - bad.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "The female body is a work of art. The male body is utilitarian. It's for gettin' around. It's like a Jeep.",
+	"author": "Elaine",
+	"season": "9",
+	"episode": "9",	
+	"image": ""
+},
+{
+	"quote": "At the Festivus dinner, you gather your family around and tell them all the ways they have disappointed you over the past year.",
+	"author": "Frank Costanza",
+	"season": "9",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "It was destroyed. But out of that a new holiday was born... A Festivus for the rest of us!",
+	"author": "Frank Costanza",
+	"season": "9",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "Stop crying and fight your father!",
+	"author": "Frank Costanza",
+	"season": "9",
+	"episode": "10",	
+	"image": ""
+},
+{
+	"quote": "Slapping hands is the lowest form of primate ritual.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "I think I've reached a point in my life where I can tell the difference between nougat and cookie.",
+	"author": "George",
+	"season": "9",
+	"episode": "11",	
+	"image": ""
+},
+{
+	"quote": "Nobody carries wallets anymore. They went out with powdered wigs.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "Hey Silvio, look at Jerry here, prancing around in his coat with his purse. Yup, he's a dandy. He's a real fancy boy!",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "12",	
+	"image": ""
+},
+{
+	"quote": "She does stink. And she should quit. But I don't want it to be because of me. It should be the traditional route. Years of rejection and failure until she's spit out the bottom of the porn industry.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "What do I need to talk for, huh? What, to blab to the neighbors about how George has a new femme Jerry friend? To tell everybody at the coffee shop how George is all mixed up in a perverse sexual amalgam of some girl and his best friend? See now, I've done all that. Now it's time for silence.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "13",	
+	"image": ""
+},
+{
+	"quote": "Man's Best Friend... Jerry, I want something like that on my tombstone.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "14",	
+	"image": ""
+},
+{
+	"quote": "Kramer, you can't live down here. This is where people come to die.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": "I've been lying about my income for a few years. I figured I could afford a fake house in the Hamptons.",
+	"author": "George",
+	"season": "9",
+	"episode": "15",	
+	"image": ""
+},
+{
+	"quote": `"Pull the old switcheroo." "I think that's 'What's good for the goose is good for the gander.'" "What the hell is a gander anyway?" "It's a goose that's had the old switcheroo pulled on her."`,
+	"author": "Jerry and George",
+	"season": "9",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "I'm going to make people feel my gonnorhea.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "16",	
+	"image": ""
+},
+{
+	"quote": "If it wasn't for the toilet, there would be no books.",
+	"author": "George",
+	"season": "9",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "We should've got some collateral from him. Like his bag of cans. Or his... other bag of cans.",
+	"author": "George",
+	"season": "9",
+	"episode": "17",	
+	"image": ""
+},
+{
+	"quote": "What is nice? Trying to fill the void in your life with flour and sugar and egg and vanilla? I mean, we are all unhappy. Do we have to be fat too?",
+	"author": "Elaine",
+	"season": "9",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "Kramer, listen to me. I'm never going to have a child. If I lose this Frogger high score, that's it for me.",
+	"author": "George",
+	"season": "9",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "She's a sentence finisher. It's like dating Mad Libs.",
+	"author": "Jerry",
+	"season": "9",
+	"episode": "18",	
+	"image": ""
+},
+{
+	"quote": "There's nothing more sophisticated than diddling the maid and then chewing some gum.",
+	"author": "Elaine",
+	"season": "9",
+	"episode": "19",	
+	"image": ""
+},
+{
+	"quote": "You've got insurance. You tell them that the car was stolen, and then you get another one free.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "Uh, yes, most likely, yes. I'm, uh, H.E. Pennypacker. I'm a wealthy industrialist and philanthropist and, uh, a bicyclist. And, um, yes, I'm looking for a place where I can settle down with my, uh, peculiar habits, and, uh, the women that I frequent with.",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "20",	
+	"image": ""
+},
+{
+	"quote": "Why would we want to help somebody? That's what nuns and Red Cross workers are for.",
+	"author": "George",
+	"season": "9",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "But they did not care. They're totally indifferent. All they do is mock me, just like they did the fat fellow. All the time, mocking, mocking, mocking, mocking, all the time. It is Babu's turn to mock.",
+	"author": "George",
+	"season": "9",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "Jerry, it's L.A.! Nobody leaves. She's a seductress, she's a siren, she's a virgin, she's a whore!",
+	"author": "Kramer",
+	"season": "9",
+	"episode": "23",	
+	"image": ""
+},
+{
+	"quote": "Hear me, and hear me well. The day will come. Oh yes! Mark my words, Seinfeld. Your day of reckoning is coming, when an evil wind will blow through your little play world and wipe that smug smile off your face. And I'll be there, in all my glory, watching, watching as it all comes crumbling down.",
+	"author": "Newman",
+	"season": "9",
+	"episode": "23",	
+	"image": ""
+},
+
 ];
