@@ -64,6 +64,23 @@ app.get('/:filter/:id', (req, res) => {
     });
 });
 
+app.get('/:filter/:id/random', (req,res) => {
+    mongo.connect(config.URL, (err, db) => {
+        quotes(db).find({
+            [req.params.filter]: req.params.id.charAt(0).toUpperCase() + req.params.id.slice(1)
+        }).toArray((err, doc) => {
+
+            if (err) {
+                res.status(500).send('Sorry, parameters provided are not valid');
+            }
+            
+
+            else {
+                res.send(doc[Math.floor(Math.random() * doc.length)]);
+            }
+        });
+    });
+});
 
 app.use('*', express.static(__dirname + '/404'));
 
