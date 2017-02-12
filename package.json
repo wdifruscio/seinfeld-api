@@ -1,7 +1,7 @@
 {
   "name": "seinfeldapi",
   "version": "1.0.0",
-    "engines": {
+  "engines": {
     "node": "4.1.1",
     "npm": "3.10.9"
   },
@@ -17,5 +17,8 @@
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "path": "^0.12.7"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.22"
   }
 }
