@@ -2,6 +2,7 @@
 
 const   express = require('express'),
         app = express(),
+        seinfeld = require('./seinfeld').quotes,
         mongo = require('mongodb').MongoClient,
         config = require('./config').CONFIG,
         port = process.env.PORT || 3000;
@@ -9,6 +10,11 @@ const   express = require('express'),
 let quotes = (db) => {
     return db.collection('quotes');
 }
+
+mongo.connect(config.URL, (err, db) => {
+    quotes(db).insert(seinfeld);
+    console.log('success');
+});
 
 app.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
