@@ -11,7 +11,7 @@ let quotes = (db) => {
     return db.collection('quotes');
 }
 
-mongo.connect(config.URL, (err, db) => {
+let saveFromJSON = mongo.connect(config.URL, (err, db) => {
     quotes(db).insert(seinfeld);
     console.log('success');
 });
