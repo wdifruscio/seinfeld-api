@@ -22,11 +22,22 @@ main h1{
 }
 main{
     background:white;
-    width:75%;
+    width:70%;
     margin:0 auto;
     padding:15px;
 }
 pre{
     padding:10px;
     background:#ECEDEB;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background:#ECEDEB
+}
+
+th, td {
+    text-align: left;
+    padding: 15px;
 }

@@ -1,24 +1,49 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Seinfeld Quotes API</title>
-        <link rel="stylesheet" href="css/style.css">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    </head>
-    <body>
-        <main>
-            <h1>Seinfeld Quotes API Documentation</h1>
-            <h2>This a brief explaination of how this API works.</h2>
-            <p>For a list of awesome Seinfeld quotes, please go to <a href="https://seinfeld-quotes.herokuapp.com/quotes">https://seinfeld-quotes.herokuapp.com/quotes</a></p>
-            <p>For a random quote, please go to <a href="https://seinfeld-quotes.herokuapp.com/random">https://seinfeld-quotes.herokuapp.com/random</a></p>
-            <p>The response is only available in JSON format for now.</p>
-            <p>This was made as a fun project and does not mean to infringe on Seinfeld (one of my favorite shows ever).</p>
-            <p>Images are still being implemented, <strong>URL's provided for images do not lead to any endpoint.</strong></p>
-            <h3>Sample Request with jQuery</h3>
-            <code>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Seinfeld Quotes API</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+
+<body>
+    <main>
+        <h1>Seinfeld Quotes API Documentation</h1>
+        <h2>This a brief explaination of how this API works.</h2>
+        <p>For a list of awesome Seinfeld quotes, please go to <a href="http://seinfeld-api.willcodes.co/quotes">http://seinfeld-api.willcodes.co/quotes</a></p>
+        <p>For a random quote, please go to <a href="http://seinfeld-api.willcodes.co/random">http://seinfeld-api.willcodes.co/random</a></p>
+        <table>
+            <tr>
+                <th>Endpoint</th>
+                <th>Example</th>
+                <th>DataType</th>
+            </tr>
+            <tr>
+                <td>season/*</td>
+                <td>season/1</td>                
+                <td>Integer</td>
+            </tr>
+            <tr>
+                <td>episode/*</td>
+                <td>episode/30</td>                
+                <td>Integer</td>
+            </tr>
+            <tr>
+                <td>author/*</td>
+                <td>author/george</td>
+                <td>string</td>
+            </tr>
+        </table>
+
+
+        <p>This was made as a fun project and does not mean to infringe on Seinfeld (one of my favorite shows ever).</p>
+        <p>Images are still being implemented, <strong>URL's provided for images do not lead to any endpoint.</strong></p>
+        <h3>Sample Request with jQuery</h3>
+        <code>
                 <pre>
     $.ajax({
         url:"https://seinfeld-quotes.herokuapp.com/quotes",
@@ -28,8 +53,8 @@
             //do something
     });</pre>
             </code>
-            <h3>Sample Response</h3>
-            <code>
+        <h3>Sample Response</h3>
+        <code>
                 <pre>
     {
     "quote": "Yeah I eat the whole apple.. core, stem, seeds -- everything",
@@ -39,12 +64,13 @@
     "image": "./Images/15-3.png"
     }</pre>
             </code>
-            <h3>Terms of Use</h3>
-            <p>This API is completely free, I just ask that you include a link or reference to where the data is coming from.</p>
-            <h3>Contribute</h3>
-            <p>This API is a work in progress and is being created by <a href="https://willcodes.ca" target="_blank">willcodes.</a></p>
-            <p>If you would like to contribute or send me a quote you think should be included, please <a href="malito:hello@willcodes.ca">get in touch.</a></p>
-        </main>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    </body>
+        <h3>Terms of Use</h3>
+        <p>This API is completely free, I just ask that you include a link or reference to where the data is coming from.</p>
+        <h3>Contribute</h3>
+        <p>This API is a work in progress and is being created by <a href="https://willcodes.ca" target="_blank">willcodes.</a></p>
+        <p>If you would like to contribute or send me a quote you think should be included, please <a href="malito:hello@willcodes.ca">get in touch.</a></p>
+    </main>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+</body>
+
 </html>
