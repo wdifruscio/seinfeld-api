@@ -59,6 +59,7 @@ app.get('/:filter/:id', (req, res) => {
 
             else {
                 res.send(doc);
+                db.close();
             }
         });
     });
@@ -77,6 +78,7 @@ app.get('/:filter/:id/random', (req,res) => {
 
             else {
                 res.send(doc[Math.floor(Math.random() * doc.length)]);
+                db.close();
             }
         });
     });
