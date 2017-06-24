@@ -16,6 +16,18 @@ let saveFromJSON = mongo.connect(config.URL, (err, db) => {
     console.log('success');
 });
 
+let errorHandler = function (error) {
+        if (error) {
+        try {
+                throw error;
+        }
+        catch(e) {
+                console.log(e);
+        }
+        }
+        return;
+}
+
 app.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
@@ -24,10 +36,16 @@ app.use(function (req, res, next) {
 
 app.use('/', express.static(__dirname + '/mainpage'));
 
-app.get('/quotes', (req, res) => {
+app.get('/quotes', (req, res, err) => {
+        
+    if (err)
+        errorHandler(err);    
+        
     if (req) {
         mongo.connect(config.URL, (err, db) => {
             quotes(db).find({}).toArray((err, doc) => {
+                if (err)
+                   errorHandler(err);  
                 res.send(doc);
                 db.close();
             });
@@ -35,10 +53,16 @@ app.get('/quotes', (req, res) => {
     }
 });
 
-app.get('/random', (req, res) => {
+app.get('/random', (req, res, err) => {
+    if (err)
+       errorHandler(err);      
     if (req) {
         mongo.connect(config.URL, (err, db) => {
+     if (err)
+       errorHandler(err);  
             quotes(db).find({}).toArray((err, doc) => {
+                        if (err)
+       errorHandler(err);  
                 res.send(doc[Math.floor(Math.random() * doc.length)]);
                 db.close();
             });
@@ -47,8 +71,12 @@ app.get('/random', (req, res) => {
     else res.status(500).send('Something Broke!');
 });
 
-app.get('/:filter/:id', (req, res) => {
+app.get('/:filter/:id', (req, res, err) => {
+            if (err)
+       errorHandler(err);  
     mongo.connect(config.URL, (err, db) => {
+                if (err)
+       errorHandler(err);  
         quotes(db).find({
             [req.params.filter]: req.params.id.charAt(0).toUpperCase() + req.params.id.slice(1)
         }).toArray((err, doc) => {
@@ -65,8 +93,11 @@ app.get('/:filter/:id', (req, res) => {
     });
 });
 
-app.get('/:filter/:id/random', (req,res) => {
+app.get('/:filter/:id/random', (req,res,err) => {
+            if (err)
+       errorHandler(err);  
     mongo.connect(config.URL, (err, db) => {
+            
         quotes(db).find({
             [req.params.filter]: req.params.id.charAt(0).toUpperCase() + req.params.id.slice(1)
         }).toArray((err, doc) => {
