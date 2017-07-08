@@ -12,7 +12,7 @@
 
 ```
     $.ajax({
-        url:"https://seinfeld-quotes.herokuapp.com/quotes",
+        url:"http://seinfeld-api.willcodes.co/quotes",
         dataType:"JSON",
         method:"GET"
         }).then(function(res){
